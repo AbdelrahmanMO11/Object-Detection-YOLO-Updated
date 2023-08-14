@@ -6,3 +6,6 @@ You Only Look Once (YOLO) is a new and faster approach to object detection. Trad
  For more information/better understanding visit my blog.
  Link Part 1: https://medium.com/@pratheesh.27998/object-detection-part1-4dbe5147ad0a
  Link Part 2: https://medium.com/@pratheesh.27998/object-detection-part2-6a265827efe1
+
+Acknowledgement
+this repository is an updated copy of the original repo : https://github.com/iampratheesh/Object-Detection-YOLO/tree/master
